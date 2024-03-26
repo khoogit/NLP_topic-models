@@ -9,4 +9,4 @@ c. LDA-PVTM-Enron_report: Compares the performance of topic models PVTM and LDA 
 
 Text generation:
 
-GPT2-EarthScience_report: A description of experiments and their corresponding results from text generation using GPT2 fine-tuned on Earth Science dataset (on natural phenomena) provided by NASA. Complementary findings to an Earth Science challenge ("Automated Reporting of Natural Events Using Satellite Imagery and Metadata") from NASA Frontier Development Lab 2021.  
+GPT2-EarthScience_report: A description of additional experiments and their corresponding results from text generation using GPT2 fine-tuned on Earth Science dataset (on natural phenomena) provided by NASA. Complementary findings to an Earth Science challenge ("Automated Reporting of Natural Events Using Satellite Imagery and Metadata") from NASA Frontier Development Lab 2021.  
